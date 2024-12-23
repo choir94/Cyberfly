@@ -62,11 +62,7 @@ To participate in the incentivized testnet, you’ll need some testnet tokens to
 
 ## Conclusion  
 
-By following these steps, you’ve successfully set up a node on the Cyberfly Incentivized Testnet, claimed testnet tokens, and staked them on your node. Not only are you contributing to the development of a decentralized IoT ecosystem, but you’re also positioning yourself to earn future rewards when Cyberfly launches on the mainnet.    
-
-## Stay Connected  
-
-Follow Cyberfly on Twitter for the latest updates: [https://x.com/cyberfly_io/](https://x.com/cyberfly_io/)  
+By following these steps, you’ve successfully set up a node on the Cyberfly Incentivized Testnet, claimed testnet tokens, and staked them on your node. Not only are you contributing to the development of a decentralized IoT ecosystem, but you’re also positioning yourself to earn future rewards when Cyberfly launches on the mainnet.   
 
 ---
 
