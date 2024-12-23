@@ -70,4 +70,5 @@ By following these steps, you’ve successfully set up a node on the Cyberfly In
 
 For more updates and discussions, join the [Telegram Airdrop Node](https://t.me/airdrop_node).
 
+Traktir Admin Buat kopi
 [Traktir Kopi ](https://trakteer.id/AirdropNode/tip).
